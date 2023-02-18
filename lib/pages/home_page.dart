@@ -115,19 +115,6 @@ class _HomePageState extends State<HomePage> {
     );
   }
 
-  // Row(
-  //   children: const [
-  //     ResultIcon(tuuraIconbu: true),
-  //     ResultIcon(tuuraIconbu: false),
-  //   ],
-  // ),
-  //           const Spacer()
-  //         ],
-  //       ),
-  //     ),
-  //   );
-  // }
-
   AppBar _appBar() {
     return AppBar(
       backgroundColor: Colors.white,
